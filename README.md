@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Araa Al-marhabi! 
+# 👋 Hi, I'm Araa! 
 
 - 🎓 Senior Student at **Effat University**  
 - 💻 Studying **Computer Science & Artificial Intelligence**  
